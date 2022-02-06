@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [ExtraWeb Parma S.r.l.](https://www.extra-web.it/)
   
-- 👨‍💻 All of my projects are available at [giorgioreale.it](giorgioreale.it)
+- 👨‍💻 All of my projects are available at [giorgioreale.it](https://www.giorgioreale.it/)
   
 - 📫 How to reach me **realegiorgio.1998@gmail.com**
   
-- 📄 Know about my experiences [https://www.giorgioreale.it/documents/cv/cv-reale-giorgio.pdf](https://www.giorgioreale.it/documents/cv/cv-reale-giorgio.pdf)
+- 📄 Know about my experiences [CV](https://www.giorgioreale.it/documents/cv/cv-reale-giorgio.pdf)
   
 - ⚡ Fun fact **Mechanical keyboard enthusiast**
   
