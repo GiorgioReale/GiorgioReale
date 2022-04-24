@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Giorgi Reale</h1>
 <h3 align="center">A passionate Web Developer from Italy</h3>
 
-- 👨‍💻 All of my projects are available at [giorgioreale.it](https://www.giorgioreale.it/)
+- 👨‍💻 All of my projects are available at: **[giorgioreale.it]**(https://www.giorgioreale.it/)
 
-- 📫 How to reach me **realegiorgio.1998@gmail.com**
+- 📫 How to reach me: **realegiorgio.1998@gmail.com**
 
-- 📄 Know about my experiences [view CV](https://www.giorgioreale.it/documents/cv/cv-reale-giorgio.pdf)
+- 📄 Know about my experiences: **[view CV]**(https://www.giorgioreale.it/documents/cv/cv-reale-giorgio.pdf)
 
-- ⚡ Fun fact **Mechanical keyboard enthusiast**
+- ⚡ Fun fact: **Mechanical keyboard enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
