@@ -6,7 +6,7 @@
 * 🌍 I'm from: Parma (PR), Italy
 * 👨‍💻 I currently work at: [@M4SS-Code](https://github.com/M4SS-Code)
 * 📫 How to contact me: [info@giorgioreale.xyz](mailto:info@giorgioreale.xyz)
-* 📄 Know about my experiences: [cv.giorgioreale.xyz](cv.giorgioreale.xyz)
+* 📄 Know about my experiences: [cv.giorgioreale.xyz](http://cv.giorgioreale.xyz)
 * ⚡ Fun fact: I'm a passionate of mechanical keyboards
 
 --------------------
