@@ -1,12 +1,13 @@
 ### Hi 👋🏻, I'm Giorgio Reale
-#### A passionate developer from Italy
+### A passionate developer from Italy
 
 --------------------
 
 * 🌍 I'm from: Parma (PR), Italy
 * 👨‍💻 I currently work at: [@M4SS-Code](https://github.com/M4SS-Code)
-* 📫 How to contact me: [info@giorgioreale.xyz](mailto:info@giorgioreale.xyz)
+* 💻 My website is: [giorgioreale.xyz](giorgioreale.xyz)
 * 📄 Know about my experiences: [cv.giorgioreale.xyz](http://cv.giorgioreale.xyz)
+* 📫 How to contact me: [info@giorgioreale.xyz](mailto:info@giorgioreale.xyz), [career@giorgioreale.xyz](mailto:career@giorgioreale.xyz)
 * ⚡ Fun fact: I'm a passionate of mechanical keyboards
 
 --------------------
