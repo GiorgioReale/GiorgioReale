@@ -4,7 +4,7 @@
 --------------------
 
 * 🌍 I'm from: Parma (PR), Italy
-* 👨‍💻 I currently work at: [Custom S.p.A.](https://www.custom.biz/)
+* 👨‍💻 I currently work at: [Esaedro S.r.l.](https://www.esaedro.com/)
 * 💻 My website is: [giorgioreale.xyz](http://giorgioreale.xyz)
 * 📄 Know about my experiences: [cv.giorgioreale.xyz](http://cv.giorgioreale.xyz)
 * 📫 How to contact me: [info@giorgioreale.xyz](mailto:info@giorgioreale.xyz), [career@giorgioreale.xyz](mailto:career@giorgioreale.xyz)
