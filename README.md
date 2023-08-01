@@ -28,6 +28,7 @@
 [![](https://img.shields.io/badge/GiorgioReale-linkedin?style=for-the-badge&logo=linkedin&color=0077b5&logoColor=ffffff)](https://www.linkedin.com/in/giorgioreale)
 [![](https://img.shields.io/badge/GiorgioReale-github?style=for-the-badge&logo=github&color=171515&logoColor=ffffff)](https://github.com/GiorgioReale)
 [![](https://img.shields.io/badge/@GiorgioReale-gitlab?style=for-the-badge&logo=gitlab&color=fca121&logoColor=ffffff)](https://gitlab.com/GiorgioReale)
+[![](https://img.shields.io/badge/@giorgioreale@mastodon.social-mastodon?style=for-the-badge&logo=mastodon&color=6364ff&logoColor=ffffff)](https://mastodon.social/@giorgioreale)
 [![](https://img.shields.io/badge/@GiorgioRealeXYZ-twitter?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=ffffff)](https://twitter.com/GiorgioRealeXYZ)
 [![](https://img.shields.io/badge/u/GiorgioReale-reddit?style=for-the-badge&logo=reddit&color=ff4300&logoColor=ffffff)](https://www.reddit.com/user/GiorgioReale)
 [![](https://img.shields.io/badge/@giorgioreale-instagram?style=for-the-badge&logo=instagram&color=405de6&logoColor=ffffff)](http://www.instagram.com/giorgioreale)
